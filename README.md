@@ -10,7 +10,7 @@
 ## Запуск приложения
 Для запуска FastAPI используется веб-сервер uvicorn. Команда для запуска выглядит так:  
 ```
-uvicorn app.main:app --reload
+uvicorn main:app --reload
 ```
 
 ### Документация
